@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudCoinWebClient", "CloudCoinWebClient\CloudCoinWebClient.csproj", "{58688E2B-A25C-42E9-9CDE-972895D56945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58688E2B-A25C-42E9-9CDE-972895D56945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58688E2B-A25C-42E9-9CDE-972895D56945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58688E2B-A25C-42E9-9CDE-972895D56945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58688E2B-A25C-42E9-9CDE-972895D56945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B5FDB7-2D13-481C-93C6-23153D7E5DDA}
+	EndGlobalSection
+EndGlobal
